@@ -1,8 +1,11 @@
 public class helloworld{
   String name;
-  String getName(){
+  public String getName(){
     return this.name;
   }
-
+public int getNumber(){
+  return 666;
+}
+  
 }
 
